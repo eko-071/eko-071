@@ -26,11 +26,13 @@
                                           💬 Feel free to reach out for collaborations!
 ```
 ---
-### GitHub Statistics
+### 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eko-071&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eko-071&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eko-071&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eko-071&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eko-071&theme=github_dark)
 
 ---
 ### 🔗 Connect With Me
