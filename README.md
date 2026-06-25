@@ -1,44 +1,76 @@
 ```
  ~/Code/eko-071 ❯ fastfetch
                                           ┌──────────────────────────────────────────┐
-    (     )  (  (   )   )  (                 Name: Fahad Ali
-     )   (    )  ) (  (   (                  Email: fahad_ali.07@proton.me
+    (     )  (  (   )   )  (                 Name    : Fahad Ali Habeeb
+     )   (    )  ) (  (   (                  Email   : fahad_ali.07@proton.me
     (  (  )  (  (    ) )  )               └──────────────────────────────────────────┘
      )  )  (      )  (  (
-    (  (   )    (   )  ) )                ┌──────────────────────────────────────────┐
-     _____________________                                 TECH STACK                    
-    |                     |___            ├──────────────────────────────────────────┤
-    |                     |_  |              Languages: Python, C, C++
-    |                     | | |              ML/AI: PyTorch, TensorFlow, scikit-learn
-    |                     | | |              Crypto: OpenSSL, libsodium, PyCryptodome
-    |                     |_|_|              Tools: Git, Vim, Linux, Jupyter, Docker
+    (  (   )    (   )  ) )
+     _____________________
+    |                     |___            ┌──────────────────────────────────────────┐
+    |                     |_  |                            TECH STACK
+    |                     | | |           ├──────────────────────────────────────────┤
+    |                     | | |              Languages : Python, C, C++, Go, SQL
+    |                     |_|_|              ML/AI     : PyTorch, TensorFlow, OpenCV
+    |                     |                 Backend   : FastAPI, Gin, PostgreSQL
+    |                     |                 Infra     : Docker, Azure, Linux, Git
     |                     |               └──────────────────────────────────────────┘
-    |                     |
-    |                     |               ┌──────────────────────────────────────────┐
-    |                     |                                INTERESTS
- ___|                     |____           ├──────────────────────────────────────────┤
-/   |_____________________|    \             • Machine Learning & AI
-\______________________________/             • Cryptography & Security
-                                             • System Programming & Linux
-                                             • Open Source Contribution
+ ___|                     |____
+/   |_____________________|    \          ┌──────────────────────────────────────────┐
+\______________________________/                           CURRENTLY
+                                          ├──────────────────────────────────────────┤
+                                             AI/ML Intern @ JMR Infotech
+                                             Researching PRNGs & security systems
+                                             Open to collabs & research
                                           └──────────────────────────────────────────┘
-                                                        ● ● ● ● ● ● ● ●
-                                            Feel free to reach out for collaborations!
 ```
----
-### 📈 GitHub Statistics
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eko-071&theme=github_dark)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%2B+Systems+%2B+Security;Building+AI+systems+%40+JMR+Infotech;Researching+cryptography+%26+security+systems;Open+to+collaborations+and+research)](https://readme-typing-svg.demolab.com)
+
+</div>
+
+---
+
+```bash
+$ cat ~/stats.sh && bash ~/stats.sh
+```
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eko-071&theme=github_dark)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eko-071&theme=github_dark)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eko-071&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eko-071&theme=github_dark)
+
+</div>
 
 ---
-### 🔗 Connect With Me
+<!-- 
+```bash
+$ cat ~/contribution_graph.sh && bash ~/contribution_graph.sh
+```
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eko-071&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+--- -->
+
+```bash
+$ links
+```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahad-ali-habeeb-249a50296/)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:fahad_ali.07@proton.me)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/eko_071/)
 
 ---
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=eko-071&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
