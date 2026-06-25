@@ -4,23 +4,20 @@
     (     )  (  (   )   )  (                 Name    : Fahad Ali Habeeb
      )   (    )  ) (  (   (                  Email   : fahad_ali.07@proton.me
     (  (  )  (  (    ) )  )               └──────────────────────────────────────────┘
-     )  )  (      )  (  (
-    (  (   )    (   )  ) )
-     _____________________
-    |                     |___            ┌──────────────────────────────────────────┐
-    |                     |_  |                            TECH STACK
-    |                     | | |           ├──────────────────────────────────────────┤
-    |                     | | |              Languages : Python, C, C++, Go, SQL
-    |                     |_|_|              ML/AI     : PyTorch, TensorFlow, OpenCV
-    |                     |                 Backend   : FastAPI, Gin, PostgreSQL
-    |                     |                 Infra     : Docker, Azure, Linux, Git
-    |                     |               └──────────────────────────────────────────┘
- ___|                     |____
-/   |_____________________|    \          ┌──────────────────────────────────────────┐
-\______________________________/                           CURRENTLY
-                                          ├──────────────────────────────────────────┤
-                                             AI/ML Intern @ JMR Infotech
-                                             Researching PRNGs & security systems
+     )  )  (      )  (  (                 ┌──────────────────────────────────────────┐
+    (  (   )    (   )  ) )                                  TECH STACK
+     _____________________                ├──────────────────────────────────────────┤
+    |                     |___               Languages : Python, C, C++, Go
+    |                     |_  |              ML/AI     : PyTorch, TensorFlow, OpenCV
+    |                     | | |              Backend   : FastAPI, Gin, PostgreSQL
+    |                     | | |              Infra     : Docker, Azure, Linux, Git
+    |                     |_|_|           └──────────────────────────────────────────┘
+    |                     |
+    |                     |               ┌──────────────────────────────────────────┐
+    |                     |                                 CURRENTLY
+ ___|                     |____           ├──────────────────────────────────────────┤
+/   |_____________________|    \             AI/ML Intern @ JMR Infotech
+\______________________________/             Researching PRNGs & security systems
                                              Open to collabs & research
                                           └──────────────────────────────────────────┘
 ```
@@ -47,8 +44,8 @@ $ cat ~/stats.sh && bash ~/stats.sh
 
 </div>
 
----
-<!-- 
+<!-- ---
+
 ```bash
 $ cat ~/contribution_graph.sh && bash ~/contribution_graph.sh
 ```
@@ -57,9 +54,9 @@ $ cat ~/contribution_graph.sh && bash ~/contribution_graph.sh
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=eko-071&theme=github-compact&hide_border=true&area=true)
 
-</div>
+</div> -->
 
---- -->
+---
 
 ```bash
 $ links
